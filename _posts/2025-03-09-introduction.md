@@ -9,4 +9,4 @@ Since I've decided to migrate to a personal blogging site for... several reasons
 
 Although <a href="https://birthbydrip.neocities.org/">Pangburn</a> and, recently, <a href="https://testamentenjoyment.net/">Durandal</a> are using the Hugo format, I settled on Jekyll cause... idk why not. Gives me more time to iron out my Markdown knowledge at least.
 
-I'll do a proper post or review or somethin Soon™. This was just done to test if the site was working properly. And it is! So that's good. Have I mentioned I'm tired yet?
+I'll do a proper post or review or somethin Soon™. This was just done to test if the site was working properly. And it is! So that's good. For now, I'll upload three recent(ish) stuff I've done from Backloggd.
