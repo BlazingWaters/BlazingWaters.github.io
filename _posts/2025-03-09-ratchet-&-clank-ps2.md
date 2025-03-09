@@ -2,7 +2,7 @@
 title: Ratchet & Clank (PS2)
 date: 2025-03-09 04:04 -1600
 category: [Gaming]
-tags: [Ratchet & Clank, PS2, Insomniac Studios, Action Platformer]
+tags: [Ratchet & Clank, PS2, Insomniac Games, Action Platformer]
 ---
 
 ### DISCLAIMER: The following is a copy-pasted review from my Backloggd account, transferred as-is so that this blog has some entries available
