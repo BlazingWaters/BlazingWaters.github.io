@@ -14,5 +14,5 @@ If you're completely new around here, here are some of my interests:
 - Hip-Hop, of course
 - Electronica
 
-![Orihime Bread](/assets/img/bread.jpg)
-_Orihime Inoue from Bleach, scarfing that bread down_  
+![Orihime Bread](/assets/img/bread.jpg)  
+_Orihime Inoue from Bleach, scarfing that bread down like a girlboss_  
