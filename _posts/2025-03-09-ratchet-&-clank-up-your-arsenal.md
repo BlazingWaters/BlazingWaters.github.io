@@ -1,5 +1,5 @@
 ---
-title: Ratchet & Clank: Up Your Arsenal
+title: Ratchet & Clank Up Your Arsenal
 date: 2025-03-09 06:02 -1600
 category: [Gaming]
 tags: [Ratchet & Clank, PS2, Insomniac Games, Action Platformer]

@@ -1,5 +1,5 @@
 ---
-title: Marvel's Spider-Man: Miles Morales
+title: Marvel's Spider-Man Miles Morales
 date: 2025-03-09 06:23 -1600
 category: [Gaming]
 tags: [Marvel, Spider-Man, Miles Morales, PC, Insomniac Games, Sandbox, Action-Adventure]

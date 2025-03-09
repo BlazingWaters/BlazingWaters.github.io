@@ -1,5 +1,5 @@
 ---
-title: Ratchet: Deadlocked
+title: Ratchet Deadlocked
 date: 2025-03-09 06:04 -1600
 category: [Gaming]
 tags: [Ratchet & Clank, PS2, Insomniac Games, Action Platformer]

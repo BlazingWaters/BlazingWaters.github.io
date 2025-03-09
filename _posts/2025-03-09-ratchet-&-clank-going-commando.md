@@ -1,5 +1,5 @@
 ---
-title: Ratchet & Clank: Going Commando
+title: Ratchet & Clank Going Commando
 date: 2025-03-09 06:00 -1600
 category: [Gaming]
 tags: [Ratchet & Clank, PS2, Insomniac Games, Action Platformer]
