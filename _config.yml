@@ -19,14 +19,14 @@ title: Thought Extrapolations # the main title
 tagline: Writing Deep Shit # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A long time coming; a dumping ground of my experiences and feelings on whatever I have finished or am currently going through.
+  blog, game, film, comic, manga
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://BlazingWaters.github.io"
 
-github:
-  username: github_username # change to your GitHub username
+# github:
+#  username: github_username # change to your GitHub username
 
 twitter:
   username: I stopped using Twitter lol check out Bluesky # change to your Twitter username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:4krgnkyiqrcqlpfbj7zwwz5x/bafkreia4yt54y37snp2ilny2fp3wgi6mlvy3lk7skllzjhsahhuhw3d4a4@jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
