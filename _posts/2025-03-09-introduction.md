@@ -20,8 +20,7 @@ Info will be for any setup necessary, ESPECIALLY for PC startup and/or recommend
 > Danger prompt will be for any content warnings or similarly extreme subject matter.
 {: .prompt-danger }
 
-> ## Warning's to highlight spoiler alerts, in case you want to avoid something you became intersted in.   
-They will also be marked by Header Size 2 (or 3, getting a feel) to make them visible by both you, and the TOC.
+> ## Warning's to highlight spoiler alerts, doubly marked by Header Size 2 (or 3, getting a feel) for peer and TOC visibilty.
 {: .prompt-warning }
 
 > Tip will have, well, various tips/tricks/special detail that I want to emphasize.
