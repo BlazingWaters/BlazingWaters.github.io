@@ -21,7 +21,7 @@ And check out these sites by other cool people!
 - [Pangburn](https://birthbydrip.neocities.org/)
 - [Glass](https://demonedaway.net/)
 
-Finally, you can reach me on [Bluesky](https://bsky.app/profile/blazingwaters.github.io), and I've started to upload various gameplay clips on [Youtube](https://www.youtube.com/@blazingwaters7469), in case you want to see future showcases or just general funny gaming moments.
+Finally, you can reach me on [Bluesky](https://bsky.app/profile/blazingwaters.fyi) (no minors allowed, however!), and I've started to upload various gameplay clips on [Youtube](https://www.youtube.com/@blazingwaters7469), in case you want to see future showcases or just general funny gaming moments.
 
 ![Orihime Bread](/assets/img/bread.jpg)  
 _Orihime Inoue from Bleach, scarfing that bread down like a girlboss_  
