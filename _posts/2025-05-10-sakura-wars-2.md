@@ -1,0 +1,57 @@
+---
+title: Sakura Wars 2 - Thou Shalt Not Die
+date: 2025-05-10 07:31 -1600
+category: [Gaming]
+tags: [Sakura Wars, Sega, Strategy RPG, ADV]
+description: There's more than one way to live and be rememebred.
+image: assets/img/Sakura Wars 2-0318.png
+---
+
+Playing the sequel to [one of your gargantuan White Whales](https://backloggd.com/u/BlazingWaters/review/541383/), now that it’s [finally received an ENTL](https://segaxtreme.net/resources/sakura-wars-2-english-translation.412/) that prompts dropping all your [current](https://backloggd.com/games/clair-obscur-expedition-33/) [plans](https://backloggd.com/games/grandia-ii-hd-remaster/), is always an antsy dilemma to tackle. This doubles up when you watch a [2-hour long, spoiler-filled dive](https://www.youtube.com/watch?v=r52wgI4rbsw) into its meat and influential direction after the predecessor’s glamorous success. Questions sprout inside the mind - does it live up to its pedigree? How would it compare to something you waited so very long to experience, drenched in nostalgic vapors? Will there be any stepbacks, and/or will they unfortunately exacerbate the flaws that were there to begin with?
+
+Sakura Wars 2’s case, thankfully, is *generally* as worth the wait as the first go-around, and it’s rather easy to see how it cements Top Dog status under SEGA’s platinum hits banner. 
+
+## New Faces, Same Spirit
+
+The Live Interaction Picture System from before comes back with extra whistles to the ADV part of the gameplay. The act of ‘talk’ dictated under the guise of time management is angled harder, introducing a clock to radically change the options (either by omitting one from the selection, or changing a provided one into a modified/different response) amps the field by a decent bit. Speech becomes more volatile while maintaining as humorous than ever, and that tightrope walk between which response will net affection points - or, as another mix, the **highest** amount of these - is still attained even with the plethora of tweaks. Just as equally impressive are the flourishes done with the presentation, having better looking sprites and backgrounds to gawk over, as well as better choreographed and expressive animatics thanks to Production IG’s contributions. 
+
+![What The Dog Doin](assets/img/Sakura Wars 2-0143.png)
+
+A quizzical approach this time around are new Linked Events, a self-explanatory system that aims to further instill that connective tissue between Ogami and each of the individuals in the Imperial Combat Troupe. The execution does a lot to help breathe life and ‘dedicated’ routine within the Theater, though it does make me wonder if these inadvertently made encounters more predictable than the roaming curiosity the preceding entry encouraged. In all likelihood though, it could’ve just been a personal mishandling - much like before different reactions can either break or start new routes, and the minute expansions done to the place warrants further investigation, especially since new minigames are available for everyone to discover and partake in. Plus, and this doubles as a personal brag, being about to please newcomer Orihime enough to have her at the 5th spot, when she’s reportedly one of the toughest girls to build rapport with, on my first go around at least ensures me I was always divvying my time up wisely.
+
+![Sakura's Knitted Scarf](assets/img/Sakura Wars 2-0239.png)
+_One instance of the Linked Events. Through different conversations, Sakura starts to ask Ogami various questions to knit a scarf as a gift._
+
+## Meaning Around Death/Sacrifice
+
+There’s a concentrated effort to make the subtitle - cribbed from an old poem by Yosano Akiko - permeate throughout the narrative aside from the literal use. Its use of ‘death’ is examined through differing facets of loss: familial connection in Iris and Orihime’s chapter, contractual obligations downplaying self-esteem in sacrificial scenarios that Sumire and Marie face, whittled emotions into a war soldier husk regarding Reni, and the rampant destruction of childhood upbringing in Kohran. Regarding the [background for that poem](https://tinyurl.com/3brpa7sm)[^1], it fits - what better to explore wartorn environments than with a crew that brings each person together despite their differences? It helps that each person has a partner to keep that leyline intact, such as Maria giving wisdom to Ogami due to her own trials from the last game once Reni’s past has been shared, or Kanna’s rivalry with Sumire doubling out as a genuine reach of camaraderie when word about her “proposal” reached the crew. 
+
+![Kanna Dialog In Chapter 3](assets/img/Sakura Wars 2-0125.png)
+![Sumire's Response In That Same Chapter](assets/img/Sakura Wars 2-0126.png)
+
+The StrategyRPG side of the multi-genre pie serves to accentuate this, since battles before have inked higher captain/coordination planning than what was possible in the first game - first by establishing Captain Commands (a four-instruct choice between offense, defense, movement, or neutral), then later providing two choices that seek to better/worsen your odds, and finally stacking the skill floor to incremental challenges, to further hammer in the aspect that you **must** be cautious, and that you **must** be sure everyone will live to see another day. It doesn’t necessarily ameliorate the problems from before, since Special use is still key and the challenge aspect only ever comes into play during disc 2 and 3, but wrapping this conceit around the prospect of “the villains are unleashing their full might, you must stay cautious and weary to prosper” makes the ease simmer accordingly[^2].
+
+![Kaede Dialog 1](assets/img/Sakura Wars 2-0312.png)
+![Kaede Dialog 3](assets/img/Sakura Wars 2-0315.png)
+![Kaede Dialog 4](assets/img/Sakura Wars 2-0316.png)
+
+That said, I’d be lying if I said I was openly welcoming to all of the deviations and/or inclusions 2 has brought onto  the table, which leads into the “I nitpick the shit out of an idolized classic because barely anyone talks about its problems” scenario of reviewing. Being the nagging nerd sucks, but it’s important to keep the chambers as echo-free as possible.
+
+## Stamped Ambitions
+
+> Spoilers are kept to a minimum, but discretion is advised nonetheless
+{: .prompt-warning }
+
+Ohji Hiroi, Satoru Akahori, and the rest of Red Company/SEGA very clearly realized Ayame becoming unusable for the sequel onward was a big ol mistake after her accruing popularity from 1 and its prequel OVA. To make up for this, they decided to not only do the Suddenly Twin Sister rugpull shown earlier (though Kaede, herself, is fine), and not only transfer the pathos of her arc onto **another** character (the best part of the game granted, barring one connected issue I’ll mention next), but also have ***another*** character who serves her role’s other function yet without any of the compelling drama and development (far and away the worst). It’s all so strange to witness - the first game’s plot beats weren’t necessarily without their own pitfalls, but they ebbed so confidently within one another that this somewhat doesn’t, despite the two-year gap *and* budget overhaul. Adding onto that is the dropped ball of the romance aspect, where the first game’s “your girl is SPECIAL!” mantra is expounded and expanded tenfold here, only to then get pulled back by Chapter 10 with “er, actually, we **really** need more merch and brand appeal, so Sakura’s gonna be more important this time, ok?”. Having your OTP sidelined hard because a particular event is anchored onto Sakura’s familial backstory is an extraordinarily hard pill to swallow, to the point I wonder if it was a holdover from a different plan that couldn’t be ironed out on time.
+
+Segwaying on over is the Black Demon Society, a half-step between the Hive Of Darkness and their immediate successor Twilight Knights; not nearly as woefully trite as the latter, but not quite as potent as the former. The tokusatsu-like Monster Of The Week format hampers a squad that clearly works better as a unit than solo individuals with differing goals. Konjou and Tsuchigumo are fun to both dissect and see their persona clash with anyone on-screen, but any time Mokujiki was onscreen talking about his calculations like a poindexter begging for attention, I was eyeing my Retro-Bit Saturn (then soon 8bitdo M30)’s B Button to spam onward. Kasha and his egomaniacal arsonist mentality is another unfortunate hit from this shortcoming, but there’s a concentrated effort tying him onto the theme’s main crux, which bevies a smidgen of personality. Aside from the two members alluded to prior, there’s the main antagonist Kyogoku, an odd duck comprising and mirroring the historical climax to Aoi Satan’s spiritualist finale. What starts out as an analog to Japan’s fascist history during WW2 - right down to mirroring the February 26th incident - soon unveils the of a ploy necessitating his “true ideal” of harboring power to “cleanse Tokyo back to its original form”, much like Tenkai from before... which everyone in the Flower Division immediately points out the hypocrisy as to how he’ll “achieve his ideals” which shrinks him down to a corn cob. Granted, it’s hard to levy this shift in motivation and writing direction as a critique, at least not entirely, since seeing nuggets of this mindset within the ongoing world’s current political climate is nonetheless delivered.
+
+![Yoneda Detailing Kyogoku's Backstory 1](assets/img/Sakura Wars 2-0139.png)
+![Yoneda Detailing Kyogoku's Backstory 2](assets/img/Sakura Wars 2-0140.png)
+
+I make these qualms sound worse than they actually are, despite there being only three I actively dislike (I neglected to mention Rose Division because they are bad gay stereotypes from the late 90s). Given the rampant clamor from the Japanese’s fanbase, it’s understandable the development opted to aim higher and wider than before, and it’s hard not to fault the ambitious shortcomings when they delivered exactly what was expected. It’s been about 5 years since I last met the troupes of any region, disregarding my shelved attempt at replaying 1 a few years prior, and it was just as welcoming of a reunion as I imagined it’d be. It’s also hard to envision any sort of manner wherein this sequel’s hype factor could ever match the one I had for the entry I waited with enamoured awe, compounded by the notion that *I will* like it rather than *would I*. Despite the series’ shelving around the mid-2000s, and a smaller occurrence we’re seeing now, it’s easy to see where these marks within and outside the space SEGA occupies affected the hearts and minds of game development. Applying an old proverb, its subtitle has become sated: it shan’t ever die, since these hallmarks will be ever present.
+
+![The Flower Division](assets/img/Sakura Wars 2-0341.png)
+
+[^1]: There is a lot more to Akiko’s history, both within the series’ allusions and her personal life, but that goes far beyond the scope of this review. Plus, I myself am fairly in-the-dark about it, and thus would rather not indulge with minimal knowledge.
+[^2]: Even then, adding a *bit* spice to the map design wouldn’t have compromised the onboarding process and the narrative’s increasing stake. The most thought-inducing decision one will make in the first half will likely be on Chapter 6, about whether or not Iris will backup Ogami until the rest of the Troupe arrive.
