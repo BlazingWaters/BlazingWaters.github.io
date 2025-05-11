@@ -29,7 +29,7 @@ url: "https://BlazingWaters.github.io"
 #  username: github_username # change to your GitHub username
 
 twitter:
-  username: I stopped using Twitter lol check out Bluesky # change to your Twitter username
+  username: I Don't Use Twitter Aside From Art # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:4krgnkyiqrcqlpfbj7zwwz5x/bafkreia4yt54y37snp2ilny2fp3wgi6mlvy3lk7skllzjhsahhuhw3d4a4@jpeg
+avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:4krgnkyiqrcqlpfbj7zwwz5x/bafkreigaw3274pmjergnguz3shoqwexrngrzkblvyov6knr6xjlq3ng62a@jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
